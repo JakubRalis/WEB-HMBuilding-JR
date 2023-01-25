@@ -1,2 +1,1 @@
-# WEB-HMBuilding-JR
-vytvoreni webu podle figma navrhu
+Zde je odkaz na [moji stranku](https://github.com/JakubRalis/WEB-HMBuilding-JR.git)
